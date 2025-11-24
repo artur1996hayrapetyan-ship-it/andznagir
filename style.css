@@ -1,0 +1,38 @@
+header{
+    height: 100px;
+    width: 100%;
+}
+h1{
+    text-align: center;
+}
+.text{
+    width: 50%;
+   
+}
+.img{
+    width: 50%;
+    height: 60%;
+}
+
+.boxs{
+   width: 100%;
+   height: 50vh;
+}
+button{
+    width: 10vh;
+    height: 5vh;
+    display: block;
+}
+input{
+    width: 100%;
+    height: 4vh;
+    margin: 10px 0;
+}
+
+footer{
+    border: solid   ;
+    background: url('https://visityerevan.am/media/images/bMunicipality_logo_3dNoVn0.jpg');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-color: rgba(128, 128, 128, 0.585);
+}
